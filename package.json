@@ -1,10 +1,10 @@
 {
-  "name": "ryureka.github.io",
+  "name": "everydaythinking",
   "version": "1.0.0",
   "description": "**[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
     "browser-sync": "^2.26.7",
     "gulp": "^4.0.2",
     "gulp-shell": "^0.7.1"
-  }
+  },
+  "keywords": [
+    "algorithms"
+  ]
 }
