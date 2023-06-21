@@ -1,5 +1,5 @@
 {
-  "name": "everydaythinking",
+  "name": "algostudyspace",
   "version": "1.0.0",
   "description": "**[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.",
   "main": "index.js",
@@ -22,6 +22,6 @@
     "gulp-shell": "^0.7.1"
   },
   "keywords": [
-    "algorithms"
+    "archive"
   ]
 }
